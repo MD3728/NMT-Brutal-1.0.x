@@ -1819,7 +1819,7 @@ const plantStat = [
     name: "Fume Shroom",
     description: "Damages all zombies in tiles ahead of it",
     t1:{
-      sun: 225,
+      sun: 150,
       recharge: 300,
       startingRecharge: 300,
       health: 600,
@@ -1878,8 +1878,8 @@ const plantStat = [
       startingRecharge: 600,
       health: 300,
       eatable: true,
-      damage: 50,
-      splashDamage: 30,
+      damage: 60,
+      splashDamage: 40,
       reload: 180,
       projectile: 8 //Pepper
     },
